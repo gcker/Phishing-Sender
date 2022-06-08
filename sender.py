@@ -2,7 +2,7 @@
 #coding=utf-8
 
 '''
-Created on 2020年2月4日
+Created on 2019年10月
 @author: Gcker
 
 Phishing sender封装了swaks，使人们批量发送邮件变得更简单
